@@ -1,5 +1,5 @@
 <h1 align="center">Hello there👋</h1>
-## I'm Joseph Nathan Garcia Salazar, a college student for the Computer Engineer's carrier at UPIICSA - IPN 🤓
+<h3 align="center">I'm Joseph Nathan Garcia Salazar, a college student for the Computer Engineer's carrier at UPIICSA - IPN 🤓</h3>
 
 <!--
 **NathanErak/NathanErak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
