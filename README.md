@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-    # Hi there👋
-</div>
+<h1 align="center">Hello there👋</h1>
 ## I'm Joseph Nathan Garcia Salazar, a college student for the Computer Engineer's carrier at UPIICSA - IPN 🤓
 
 <!--
