@@ -1,8 +1,9 @@
 <h1 align="center">Hello there👋</h1>
-<h2 align="center">I'm Joseph Nathan Garcia Salazar, a college student for the Computer Engineer's carrier at UPIICSA - IPN 🤓</h2>
+<h2 align="center">I'm Joseph Nathan Garcia Salazar, a college student at the Computer Engineer's carrier at UPIICSA - IPN 🤓</h2>
 
-<h3 align="left">I'm currently learning about Test Engineering, Cibersecurty and Cloud Services 👀</h3>
-<h3 align="left">Also, i'm founder of the Microsoft's Club at UPIICSA, commonly called "UPIICSOFT" 😎</h3>
+<h3 align="left">Currently, i'm learning about Test Engineering, Cibersecurty and Cloud Services, using Python 🖥️</h3>
+
+<h3 align="left">Also, i'm founder of the Microsoft's Club at UPIICSA, AKA "UPIICSOFT" 😎</h3>
 
 <!--
 **NathanErak/NathanErak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
