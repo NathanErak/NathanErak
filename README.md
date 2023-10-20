@@ -5,7 +5,7 @@
 <h3 align="left">Also, i'm founder of the Microsoft's Club at UPIICSA, AKA "UPIICSOFT" 😎</h3>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="python" width="40" height="40"/>
+<p align="left"> <a href="https://www.python.org" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://cplusplus.com/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c++" width="40" height="40"/> </a> </p>
 
 <!--
 **NathanErak/NathanErak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
