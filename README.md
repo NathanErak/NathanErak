@@ -2,7 +2,7 @@
 <h2 align="center">I'm Joseph Nathan Garcia Salazar, a college student at the Computer Engineer's carrier at UPIICSA - IPN 🤓</h2>
 
 <h2 align="left">ABOUTME🖥️</h2>
-<h2 align="left">Interest: </h2>
+<h2 align="left">Interests: </h2>
 <h3 aling="left">- Test Engineering</h3>
 <h3 aling="left">- Cibersecurity </h3>
 <h3 aling="left">- Cloud Services</h3>
