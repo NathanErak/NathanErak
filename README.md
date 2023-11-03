@@ -2,11 +2,14 @@
 <h2 align="center">I'm Joseph Nathan Garcia Salazar, a college student at the Computer Engineer's carrier at UPIICSA - IPN 🤓</h2>
 
 <h2 align="left">ABOUTME🖥️</h2>
-<h2 align="left">Interests: </h2>
-<h3 aling="left">- Test Engineering</h3>
-<h3 aling="left">- Cibersecurity </h3>
-<h3 aling="left">- Cloud Services</h3>
-<h3 align="left">- Microsoft's Club AKA "UPIICSOFT" - Founder</h3>
+<h3 align="left">Currently Learning: </h3>
+  <p aling="left">- Test Engineering 
+    <br>- Cibersecurity
+    <br>- Cloud Services </p>
+
+<h3 align="left">Communities: </h3>
+  <p aling="left">- Microsoft UPIICSA's Club "UPIICSOFT" (Founder)
+  </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
