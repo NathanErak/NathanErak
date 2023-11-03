@@ -1,7 +1,11 @@
 <h1 align="center">Hello there👋</h1>
 <h2 align="center">I'm Joseph Nathan Garcia Salazar, a college student at the Computer Engineer's carrier at UPIICSA - IPN 🤓</h2>
 
-<h3 align="left">Currently, i'm learning about Test Engineering, Cibersecurity and Cloud Services 🖥️</h3>
+<h2 align="left">ABOUTME🖥️</h2>
+<h2 align="left">Interest: </h2>
+<h3 aling="left">- Test Engineering</h3>
+<h3 aling="left">- Cibersecurity </h3>
+<h3 aling="left">- Cloud Services</h3>
 <h3 align="left">- Microsoft's Club AKA "UPIICSOFT" - Founder</h3>
 
 <h3 align="center">Languages and Tools:</h3>
