@@ -21,12 +21,11 @@
   <a href="https://www.microsoft.com/es-mx/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://github.com/NathanErak/NathanErak/assets/85259693/f240208d-5d12-4a04-a5c7-f4c32e5670b2" alt="sqlserver" width="40" height="40"/> </a> 
 </p> 
 
-<h2 align="left">Let's Connect 🚀</h2>
+<!-- <h2 align="left">Let's Connect 🚀</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/nathanerak/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="linkedin" width="40" height="40"/> </a> 
   <a href="https://twitter.com/nathanerak" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="twitter" width="40" height="40"/> </a>
 </p>
-
 
 <!--
 **NathanErak/NathanErak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
