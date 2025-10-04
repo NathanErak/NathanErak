@@ -1,9 +1,9 @@
-<h1 align="center">Hello there, I'm Nathan Garcia👋</h1>
+<h1 align="center">Hello, I'm Nathan Garcia</h1>
 <h2 align="center">Computer Engineering Student at UPIICSA - IPN 🤓</h2>
 
 <h2 align="left">ABOUT ME 🖥️</h2>
 <h3 align="left">Currently Focused On:</h3>
-  <p align="left">- Test Engineering 
+  <p align="left">- Fullstack Developer 
     <br>- Cybersecurity
     <br>- Cloud Services </p>
 
